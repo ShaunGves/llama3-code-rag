@@ -1,4 +1,4 @@
-# 🦙 Llama 3 Code RAG — Fine-Tuned Domain Model
+# Llama 3 Code RAG — Fine-Tuned Domain Model
 
 A production-grade RAG-grounded code assistant built on Llama 3-8B, 
 fine-tuned with QLoRA on 50K+ coding samples with a hybrid dense-sparse retrieval pipeline.
